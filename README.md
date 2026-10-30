@@ -14,7 +14,7 @@
 ---
 Live website link: https://t33-mule-trace.vercel.app/
 ---
-<img width="1917" height="1075" alt="image" src="https://github.com/user-attachments/assets/4bcc5f69-e4d6-4d9e-89ee-3b8adf977ec5" />
+<img width="1915" height="1075" alt="image" src="https://github.com/user-attachments/assets/4bcc5f69-e4d6-4d9e-89ee-3b8adf977ec5" />
 
 ## 1. Executive Summary & Problem Context
 
